@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  height: MyString
+  chest_measurementr: MyString
+  bust_measurement: MyString
+  hip_measurement: MyString
+  inseam: MyString
+  shoe_size: MyString
+  eye_color: MyString
+  hair_color: MyString
+  hair_texture: MyString
+  city: MyString
+
+two:
+  height: MyString
+  chest_measurementr: MyString
+  bust_measurement: MyString
+  hip_measurement: MyString
+  inseam: MyString
+  shoe_size: MyString
+  eye_color: MyString
+  hair_color: MyString
+  hair_texture: MyString
+  city: MyString
